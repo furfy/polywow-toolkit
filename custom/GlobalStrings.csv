@@ -1,0 +1,146 @@
+ADDON_DEP_NOT_DEMAND_LOADED,Зависимая модификация загружается только по требованию
+ADDON_NOT_DEMAND_LOADED,Загружается только по требованию
+AMMO_DAMAGE_TEMPLATE,Добавляет %g ед. урона в секунду
+AMMO_SCHOOL_DAMAGE_TEMPLATE,Добавляет %g ед. урона (%s) в секунду
+ARMOR_TEMPLATE,Броня: %d
+BILLING_NAG_WARNING_P1,Оплаченное время игры истекает через %d минут
+CHAT_MSG_DND,Не беспокоить
+CHAT_MSG_IGNORED,Игнорируется
+CHAT_PLAYER_BANNED_NOTICE,[%1$s] %3$s блокирует %2$s.
+CHAT_PLAYER_KICKED_NOTICE,[%1$s] %3$s исключает %2$s.
+COMBAT_TEXT_COMBO_POINTS_P1,<%d приемов в серии>
+COMBAT_TEXT_HONOR_GAINED,Честь: %s
+COMBAT_TEXT_SHOW_MANA_TEXT,Восполнение энергии
+CONFIRM_TALENT_WIPE,"Вы уверены, что хотите отказаться от всех своих талантов? C каждым разом это будет обходиться все дороже."
+COPPER,медных монет
+DAMAGE_TEMPLATE,Урон: %d-%d
+DAMAGE_TEMPLATE_WITH_SCHOOL,%d - %d ед. %s
+DAYS_ABBR,д.
+DAYS_ABBR_P1,д.
+DAYS,день
+DAYS_P1,дней
+DISABLE_SPAM_FILTER,Фильтр навязчивой рекламы
+DPS_TEMPLATE,(%.1f ед. урона в секунду)
+ENABLE_ALL_SOUND,Включить звук
+ENERGY_COST,Энергия: %d
+ENERGY_COST_PER_TIME,Энергия: %d плюс %d/сек.
+ERR_GUILD_NAME_NAME_CONSECUTIVE_SPACES,Названия не могут начинаться и заканчиваться пробелом. Введите другое название.
+ERR_INVITED_TO_GROUP_S,%s предлагает вам присоединиться к группе.
+ERR_INVITED_TO_GUILD_SS,"%s предлагает вам присоединиться к гильдии ""%s""."
+ERR_QUEST_REWARD_ITEM_S,Получен предмет: %s.
+FOCUS_COST,Тонус: %d
+FOCUS_COST_PER_TIME,Тонус: %d плюс %d/сек.
+GENERIC_MIN_P1,%d минут
+GENERIC_SEC_P1,%d секунд
+GOLD,золотых
+GUILD_TOTAL_P1,Членов гильдии: |cffffffff%d|r
+GUILDCONTROL_OPTION1,Читать гильд. чат
+GUILDCONTROL_OPTION2,Исп. гильд. чат
+GUILDCONTROL_OPTION3,Читать офиц. чат
+GUILDCONTROL_OPTION4,Исп. офиц. чат
+HEALTH_COST,Здоровье: %d
+HEALTH_COST_PER_TIME,Здоровье: %d плюс %d/сек
+HELPFRAME_ACCOUNT_ENDTEXT,"По любым вопросам, связанным с вышеуказанными проблемами, обращайтесь в службу поддержки по вопросам биллинга и учетных записей:\n\nПо телефону:  |cffffd200(800) 59-BLIZZARD|r\nЧерез Интернет:  |cffffd200www.blizzard.com/support/wowbilling|r\nПо электронной почте:  |cffffd200billing@blizzard.com|r \n\nМы также рекомендуем вам проверить страницу управления учетной записью по адресу: \n\n|cffffd200www.worldofwarcraft.com/account|r \n\nНа странице управления учетной записью вы можете просматривать информацию о своей подписке, добавлять игровые карты и получать доступ к другим важным функциям и параметрам учетной записи."
+HELPFRAME_TECHNICAL_BULLET_TITLE2,"Возможно, решение вашей проблемы уже опубликовано на форуме технической поддержки, расположенном на сайте World of Warcraft по адресу:\n\nwww.worldofwarcraft.com\n\nЕсли ваша техническая проблема не решена с помощью опубликованных там решений, обратитесь в наш отдел технической поддержки:\n\nПо телефону:  (949) 955-1382\nЧерез Интернет:  www.blizzard.com/support/wow\nПо электронной почте:  wowtech@blizzard.com"
+HOURS_ABBR,ч.
+HOURS_ABBR_P1,ч.
+HOURS,час
+HOURS_P1,часов
+INT_SPELL_DURATION_HOURS_P1,%d часов
+INT_SPELL_POINTS_SPREAD_TEMPLATE,%d - %d
+ITEM_COOLDOWN_TIME_DAYS_P1,Времени до восстановления: %d дней
+ITEM_COOLDOWN_TIME_HOURS_P1,До восстановления: %d часов
+ITEM_ENCHANT_TIME_LEFT_DAYS_P1,%s (%d дней)
+ITEM_ENCHANT_TIME_LEFT_HOURS_P1,%s (%d часов)
+ITEM_SPELL_CHARGES_P1,%d зарядов
+LASTONLINE_DAYS_P1,%d дней
+LASTONLINE_HOURS_P1,%d часов
+LASTONLINE_MONTHS_P1,%d месяцев
+LASTONLINE_YEARS_P1,%d лет
+LEVEL_UP_CHAR_POINTS_P1,Вы получили %d очков талантов.
+LEVEL_UP_SKILL_POINTS_P1,У вас сейчас %d свободных профессий.
+LOG_PERIODIC_EFFECTS,Периодический урон
+LOOT_ROLL_ALL_PASSED,все отказываются от: %s|Hitem:%d:%d:%d:%d|h[%s]|h%s.
+LOOT_ROLL_GREED,"Разыгрывается: %2$s|Hitem:%3$d:%4$d:%5$d:%6$d|h[%7$s]|h%8$s. %1$s говорит: ""Не откажусь""."
+LOOT_ROLL_GREED_SELF,"Разыгрывается: %s|Hitem:%d:%d:%d:%d|h[%s]|h%s. Вы сказали: ""Не откажусь""."
+LOOT_ROLL_NEED,"Разыгрывается: %2$s|Hitem:%3$d:%4$d:%5$d:%6$d|h[%7$s]|h%8$s. %1$s говорит: ""Мне это нужно""."
+LOOT_ROLL_NEED_SELF,"Разыгрывается: %s|Hitem:%d:%d:%d:%d|h[%s]|h%s. Вы сказали: ""Мне это нужно""."
+LOOT_ROLL_PASSED,%s отказывается от предмета %s|Hitem:%d:%d:%d:%d|h[%s]|h%s.
+LOOT_ROLL_PASSED_SELF,Вы отказались от предмета %s|Hitem:%d:%d:%d:%d|h[%s]|h%s.
+LOOT_ROLL_ROLLED_GREED,"Разыгрывается предмет %2$s|Hitem:%3$d:%4$d:%5$d:%6$d|h[%7$s]|h%8$s. Результат броска ""Не откажусь"" у игрока %9$s: %1$d."
+LOOT_ROLL_ROLLED_NEED,"Разыгрывается предмет %2$s|Hitem:%3$d:%4$d:%5$d:%6$d|h[%7$s]|h%8$s. Результат броска ""Мне это нужно"" у игрока %9$s: %1$d."
+LOOT_ROLL_WON,%s выигрывает предмет %s|Hitem:%d:%d:%d:%d|h[%s]|h%s.
+LOOT_ROLL_WON_NO_SPAM_GREED,"%1$s выигрывает предмет %3$s|Hitem:%4$d:%5$d:%6$d:%7$d|h[%8$s]|h%9$s |cff818181(""Не откажусь"" – %2$d)|r."
+LOOT_ROLL_WON_NO_SPAM_NEED,"%1$s выигрывает предмет %3$s|Hitem:%4$d:%5$d:%6$d:%7$d|h[%8$s]|h%9$s |cff818181(""Мне это нужно"" – %2$d)|r."
+LOOT_ROLL_YOU_WON,Вы выиграли предмет %s|Hitem:%d:%d:%d:%d|h[%s]|h%s.
+LOOT_ROLL_YOU_WON_NO_SPAM_GREED,"Вы выигрываете предмет %2$s|Hitem:%3$d:%4$d:%5$d:%6$d|h[%7$s]|h%8$s |cff818181(""Не откажусь"" – %1$d)|r."
+LOOT_ROLL_YOU_WON_NO_SPAM_NEED,"вы выигрываете предмет %2$s|Hitem:%3$d:%4$d:%5$d:%6$d|h[%7$s]|h%8$s |cff818181(""Мне это нужно"" – %1$d)|r."
+MANA_COST,Мана: %d
+MANA_COST_PER_TIME,Мана: %d плюс %d/сек.
+MELEE_ATTACK_POWER_TOOLTIP,Увеличивает урон от оружия ближнего боя на %.1f ед. урона в секунду.
+MINUTES_ABBR,мин.
+MINUTES_ABBR_P1,мин.
+MINUTES,минута
+MINUTES_P1,минут
+NONEQUIPSLOT,Не надевается
+OPTION_TOOLTIP_BUFFERING,"Тройная буферизация компенсирует пики частоты смены кадров, но может повышать задержку ввода на видеокартах c низкой производительностью.\nВключено: тройная буферизация\nОтключено: двойная буферизация"
+OPTION_TOOLTIP_COMBAT_TEXT_SHOW_MANA,"Отображение информации о восполнении маны, ярости и энергии."
+OPTION_TOOLTIP_DISABLE_SPAM_FILTER,Включение и отключение автоматической фильтрации навязчивой рекламы в каналах чата.
+OPTION_TOOLTIP_ENABLE_ALL_SOUND,Включение или отключение звука.
+OPTION_TOOLTIP_PARTY_CHAT_BUBBLES,"Отображение над головой персонажа текстовых сообщений, отправленных группой."
+OPTION_TOOLTIP_USE_DESKTOP_GAMMA,Использование системных настроек гаммы.
+PET_SPELL_NOPATH,Ваш питомец не может пройти.
+PETITION_NUM_SIGNATURES_P1,%d подписей
+PLAYER_COUNT_ALLIANCE_P1,%d игроков Альянса
+PLAYER_COUNT_HORDE_P1,%d игроков Орды
+PLUS_AMMO_DAMAGE_TEMPLATE,+ ед. урона в секунду от боеприпасов (%g)
+PLUS_AMMO_SCHOOL_DAMAGE_TEMPLATE,+ %g %s ед. урона в секунду
+PLUS_DAMAGE_TEMPLATE,+ %d - %d ед. урона
+PLUS_DAMAGE_TEMPLATE_WITH_SCHOOL,+%d - %d ед. урона (%s)
+PLUS_SINGLE_DAMAGE_TEMPLATE,+ %d ед. урона
+PROMOTE,Сделать лидером
+PVP_RANK_CIVILIAN_FEMALE,Мирный житель
+RAGE_COST,Ярость: %d
+RAGE_COST_PER_TIME,Ярость: %d плюс %d/сек
+RAID_INSTANCE_WARNING_HOURS_P1,"ВНИМАНИЕ! Зона ""%s"" будет обновлена через %d часов."
+RAID_INSTANCE_WARNING_MIN_P1,"ВНИМАНИЕ! Зона ""%s"" будет обновлена через %d минут."
+RAID_INSTANCE_WARNING_MIN_SOON_P1,"Зона ""%s"" будет обновлена через %d минут. Если вы не покинете эту зону, вас перенесет в связанное с камнем возвращения место."
+RANGED_ATTACK_POWER_TOOLTIP,Увеличивает урон от оружия дальнего боя на %.1f ед. урона в секунду.
+SECONDS_ABBR,сек.
+SECONDS_ABBR_P1,сек.
+SECONDS,секунда
+SECONDS_P1,секунд
+SEND_MONEY,Отпр. денег
+COD,Нал. платеж
+SHOW_DAMAGE_TEXT,Урон цели
+SHOW_PET_MELEE_DAMAGE,"Урон, нанесенный питомцем"
+SILVER,серебряных
+SINGLE_DAMAGE_TEMPLATE,Урон: %d
+SLASH_WHISPER10,/send
+SLASH_WHISPER5,/send
+SLASH_WHISPER6,/w
+SLASH_WHISPER7,/whisper
+SLASH_WHISPER8,/t
+SLASH_WHISPER9,/tell
+SPELL_FAILED_ONLY_DAYTIME,Можно использовать только днём.
+SPELL_FAILED_ONLY_NIGHTTIME,Можно использовать только ночью.
+SPELL_STAT0_NAME,Сила
+SPELL_STAT1_NAME,Ловкость
+SPELL_STAT2_NAME,Выносливость
+SPELL_STAT3_NAME,Интеллект
+SPELL_STAT4_NAME,Дух
+SPELL_TIME_REMAINING_DAYS,Осталось %d д.
+SPELL_TIME_REMAINING_DAYS_P1,Осталось %d д.
+SPELL_TIME_REMAINING_HOURS,Осталось %d ч.
+SPELL_TIME_REMAINING_HOURS_P1,Осталось %d ч.
+SPELL_TIME_REMAINING_MIN,Осталось %d мин.
+SPELL_TIME_REMAINING_MIN_P1,Осталось %d мин.
+SPELL_TIME_REMAINING_SEC,Осталось %d сек.
+SPELL_TIME_REMAINING_SEC_P1,Осталось %d сек.
+SPELL_TOTEMS,"Инструменты: "
+STUCK_OPTION,Перенестись на кладбище
+TICKET_STATUS1,Вы отправили запрос.
+TOOLTIP_TALENT_PREREQ_P1,"Требуется %d очков в таланте ""%s"""
+UNIT_SKINNABLE,Можно снять шкуру
+WHO_FRAME_TOTAL_TEMPLATE_P1,Найдено игроков: %d
+WHO_NUM_RESULTS_P1,Всего игроков: %d

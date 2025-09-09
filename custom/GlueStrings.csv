@@ -1,0 +1,24 @@
+BETA_BUILD,
+CHAR_NAME_INVALID_CHARACTER,Имя может содержать только буквы английского алфавита
+DAYS_ABBR,д.
+DAYS_ABBR_P1,д.
+DURABILITY,Прочность %d
+ACCOUNT_NAME,Учетная запись
+HOURS_ABBR,ч.
+HOURS_ABBR_P1,ч.
+LOGIN_BAD_SERVER_PROOF,Недопустимый сервер
+LOGIN_BANNED,"Данная учетная запись World of Warcraft закрыта и более не действительна."
+LOGIN_BADVERSION,Неверная версия клиента
+LOGIN_FAILED,Ошибка входа
+LOGIN_NOTIME,"Оплаченное игровое время для этой учетной записи подошло к концу."
+LOGIN_SUSPENDED,"Данная учетная запись World of Warcraft временно заблокирована."
+LOGIN_UNKNOWN_ACCOUNT,"Вы указали неверные сведения. Проверьте правильность написания учетной записи и пароля."
+LOGIN_UNKNOWN_ACCOUNT_PIN,"Вы ввели неверную информацию. Пожалуйста, проверьте правильность написания имени учетной записи, пароля и пин-кода."
+MINUTES,%d мин.
+MINUTES_ABBR,мин.
+MINUTES_ABBR_P1,мин.
+SCRIPT_MEMORY,Объем памяти (МБ):
+SECONDS,%d сек.
+SECONDS_ABBR,сек.
+SECONDS_ABBR_P1,сек.
+VERSION_TEMPLATE,
